@@ -1,4 +1,4 @@
-# SinglishToSinhalaTranslator
+# ITPM-Assignment1
 
 This repository contains automated end-to-end tests written using **Playwright** to test the *Singlish to Sinhala translation* functionality available on **[https://www.swifttranslator.com/](https://www.swifttranslator.com/)**.
 
@@ -62,7 +62,7 @@ The test suite includes:
 These tests ensure the correctness, robustness, and stability of the translation feature.
 
 
-**Thewni Mahathanthri**
+**Sonal Perera**
 
 * Tests are written for academic and demonstration purposes.
 
