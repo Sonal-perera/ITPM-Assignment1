@@ -71,12 +71,12 @@ These tests ensure the correctness, robustness, and stability of the translation
  Step 1- 
 
 ```bash
-git clone https://github.com/Thewni03/SinglishToSinhalaTranslator.git
+git clone https://github.com/Sonal-perera/ITPM-Assignment1.git
 ```
 Step 2-
 
 Navigate into the project directory:
 
 ```bash
-cd SinglishToSinhalaTranslator
+cd ITPM-Assignment1
 ```
